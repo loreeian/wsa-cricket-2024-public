@@ -119,6 +119,55 @@ the reason, while "other_player_dismissed" will show who was dismissed.
 Matches included in this archive
 --------------------------------
 
+2024-03-06 - international - T20 - male - 1419825 - Sri Lanka vs Bangladesh
+2024-03-06 - international - T20 - male - 1422809 - Tanzania vs Kuwait
+2024-03-06 - international - T20 - male - 1422810 - Malaysia vs Vanuatu
+2024-03-06 - international - T20 - male - 1423372 - Papua New Guinea vs Oman
+2024-03-05 - international - T20 - male - 1422043 - Nepal vs Netherlands
+2024-03-05 - international - T20 - male - 1422807 - Vanuatu vs Tanzania
+2024-03-05 - international - T20 - male - 1422808 - Kuwait vs Bahrain
+2024-03-04 - international - T20 - male - 1419824 - Sri Lanka vs Bangladesh
+2024-03-03 - international - T20 - male - 1422042 - Namibia vs Netherlands
+2024-03-02 - international - T20 - male - 1422041 - Netherlands vs Nepal
+2024-03-01 - international - T20 - male - 1422040 - Nepal vs Namibia
+2024-03-01 - international - T20 - male - 1422804 - Qatar vs Hong Kong
+2024-02-29 - international - T20 - male - 1422039 - Netherlands vs Namibia
+2024-02-29 - international - T20 - male - 1422803 - Hong Kong vs Qatar
+2024-02-28 - international - T20 - male - 1422038 - Netherlands vs Nepal
+2024-02-27 - international - T20 - male - 1422037 - Namibia vs Nepal
+2024-02-27 - international - T20 - male - 1422802 - Hong Kong vs Qatar
+2024-02-25 - international - T20 - male - 1388225 - Australia vs New Zealand
+2024-02-23 - international - T20 - male - 1388224 - Australia vs New Zealand
+2024-02-21 - international - T20 - male - 1388223 - New Zealand vs Australia
+2024-02-21 - international - T20 - male - 1416079 - Afghanistan vs Sri Lanka
+2024-02-19 - international - T20 - male - 1416078 - Sri Lanka vs Afghanistan
+2024-02-17 - international - T20 - male - 1416077 - Sri Lanka vs Afghanistan
+2024-02-17 - international - T20 - male - 1418545 - Hong Kong vs Japan
+2024-02-16 - international - T20 - male - 1418543 - China vs Hong Kong
+2024-02-16 - international - T20 - male - 1418544 - Japan vs China
+2024-02-16 - international - T20 - male - 1420807 - Thailand vs Saudi Arabia
+2024-02-16 - international - T20 - male - 1420808 - Maldives vs Bhutan
+2024-02-15 - international - T20 - male - 1418541 - Japan vs China
+2024-02-15 - international - T20 - male - 1418542 - Hong Kong vs Japan
+2024-02-15 - international - T20 - male - 1420805 - Maldives vs Thailand
+2024-02-15 - international - T20 - male - 1420806 - Saudi Arabia vs Bhutan
+2024-02-14 - international - T20 - male - 1418539 - Hong Kong vs China
+2024-02-14 - international - T20 - male - 1418540 - Japan vs Hong Kong
+2024-02-13 - international - T20 - male - 1375852 - West Indies vs Australia
+2024-02-13 - international - T20 - male - 1420803 - Thailand vs Saudi Arabia
+2024-02-13 - international - T20 - male - 1420804 - Bhutan vs Maldives
+2024-02-12 - international - T20 - male - 1420801 - Bhutan vs Thailand
+2024-02-12 - international - T20 - male - 1420802 - Saudi Arabia vs Maldives
+2024-02-11 - international - T20 - male - 1375851 - Australia vs West Indies
+2024-02-11 - international - T20 - male - 1418196 - Japan vs Singapore
+2024-02-11 - international - T20 - male - 1418197 - Cambodia vs Saudi Arabia
+2024-02-09 - international - T20 - male - 1375850 - Australia vs West Indies
+2024-02-09 - international - T20 - male - 1418194 - Japan vs Saudi Arabia
+2024-02-09 - international - T20 - male - 1418195 - Singapore vs Cambodia
+2024-02-07 - international - T20 - male - 1418192 - Indonesia vs Thailand
+2024-02-07 - international - T20 - male - 1418193 - Maldives vs Bhutan
+2024-02-06 - international - T20 - male - 1418190 - Singapore vs Japan
+2024-02-06 - international - T20 - male - 1418191 - Maldives vs Thailand
 2024-02-05 - international - T20 - male - 1418188 - Saudi Arabia vs Indonesia
 2024-02-04 - international - T20 - male - 1418186 - Singapore vs Thailand
 2024-02-04 - international - T20 - male - 1418187 - Japan vs Maldives
