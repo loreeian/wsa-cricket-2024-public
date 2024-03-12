@@ -2,70 +2,98 @@ name,position,country
 Pargat Singh,hitter,Canada
 NR Kirton,hitter,Canada
 NS Dhaliwal,hitter,Canada
-Saad Bin Zafar,all-rounder,Canada
+Saad Bin Zafar,all_rounder,Canada
 N Dutta,bowler,Canada
 Kaleem Sana,bowler,Canada
 JOA Gordon,bowler,Canada
 SR Taylor,hitter,United States of America
 MD Patel,hitter,United States of America
 Aaron Jones,hitter,United States of America
-NK Patel,all-rounder,United States of America
+NK Patel,all_rounder,United States of America
 SN Netravalkar,bowler,United States of America
 Ali Khan,bowler,United States of America
 Nosthush Kenjige,bowler,United States of America
 PR Stirling,hitter,Ireland
 HT Tector,hitter,Ireland
 A Balbirnie,hitter,Ireland
-KJ O'Brien,all-rounder,Ireland
+KJ O'Brien,all_rounder,Ireland
 J Little,bowler,Ireland
 MR Adair,bowler,Ireland
 CA Young,bowler,Ireland
 RG Sharma,hitter,India
 V Kohli,hitter,India
 SA Yadav,hitter,India
-HH Pandya,all-rounder,India
+HH Pandya,all_rounder,India
 JJ Bumrah,bowler,India
 Kuldeep Yadav,bowler,India
 RA Jadeja,bowler,India
 Babar Azam,hitter,Pakistan
 Mohammad Rizwan,hitter,Pakistan
 Fakhar Zaman,hitter,Pakistan
-Shadab Khan,all-rounder,Pakistan
+Shadab Khan,all_rounder,Pakistan
 Shaheen Shah Afridi,bowler,Pakistan
 Naseem Shah,bowler,Pakistan
 Haris Rauf,bowler,Pakistan
 GJ Maxwell,hitter,Australia
 DA Warner,hitter,Australia
 TM Head,hitter,Australia
-MR Marsh,all-rounder,Australia
+MR Marsh,all_rounder,Australia
 PJ Cummins,bowler,Australia
 MA Starc,bowler,Australia
 A Zampa,bowler,Australia
 JC Buttler,hitter,England
 PD Salt,hitter,England
 HC Brook,hitter,England
-LS Livingstone,all-rounder,England
+LS Livingstone,all_rounder,England
 SM Curran,bowler,England
 MA Wood,bowler,England
 AU Rashid,bowler,England
 JP Kotze,hitter,Namibia
 JN Frylinck,hitter,Namibia
 JJ Smit,hitter,Namibia
-D Wiese,all-rounder,Namibia
+D Wiese,all_rounder,Namibia
 B Shikongo,bowler,Namibia
 BM Scholtz,bowler,Namibia
 R Trumpelmann,bowler,Namibia
 KH Prajapati,hitter,Oman
 PS Athavale,hitter,Oman
 Aqib Ilyas,hitter,Oman
-Zeeshan Maqsood,all-rounder,Oman
+Zeeshan Maqsood,all_rounder,Oman
 Bilal Khan,bowler,Oman
 Shakeel Ahmed,bowler,Oman
 Kaleemullah,bowler,Oman
 HG Munsey,hitter,Scotland
 MH Cross,hitter,Scotland
 RD Berrington,hitter,Scotland
-MA Leask,all-rounder,Scotland
+MA Leask,all_rounder,Scotland
 MRJ Watt,bowler,Scotland
 CN Greaves,bowler,Scotland
 SM Sharif,bowler,Scotland
+Rahmanullah Gurbaz,hitter,Afghanistan
+Ibrahim Zadran,hitter,Afghanistan
+Hazratullah,hitter,Afghanistan
+Mohammad Nabi,all_rounder,Afghanistan
+Rashid Khan,bowler,Afghanistan
+Fazalhaq Farooqi,bowler,Afghanistan
+Naveen-ul-Haq,bowler,Afghanistan
+KS Williamson,hitter,New Zealand
+FH Allen,hitter,New Zealand
+R Ravindra,hitter,New Zealand
+GD Phillips,all_rounder,New Zealand
+MJ Santner,bowler,New Zealand
+TG Southee,bowler,New Zealand
+TA Boult,bowler,New Zealand
+TP Ura,hitter,Papua New Guinea
+S Bau,hitter,Papua New Guinea
+L Siaka,hitter,Papua New Guinea
+A Vala,all_rounder,Papua New Guinea
+SI Kamea,bowler,Papua New Guinea
+A Nao,bowler,Papua New Guinea
+N Pokana,bowler,Papua New Guinea
+RG Mukasa,hitter,Uganda
+R Obuya,hitter,Uganda
+Riazat Ali Shah,hitter,Uganda
+DM Nakrani,all_rounder,Uganda
+H Ssenyondo,bowler,Uganda
+Bilal Hassun,bowler,Uganda
+AR Ramjani,bowler,Uganda
