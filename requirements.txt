@@ -1,0 +1,8 @@
+ipykernel==6.29.2
+ipython==8.21.0
+jupyter_client==8.6.0
+jupyter_core==5.7.1
+matplotlib==3.8.4
+matplotlib-inline==0.1.6
+numpy==1.26.4
+pandas==2.2.0
