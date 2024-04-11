@@ -1,0 +1,551 @@
+sim,winner,loser,outcome
+0,India,Pakistan,w
+0,India,Ireland,w
+0,India,Canada,w
+0,India,United States of America,w
+0,Pakistan,Ireland,w
+0,Pakistan,Canada,w
+0,Pakistan,United States of America,w
+0,Ireland,Canada,w
+0,Ireland,United States of America,w
+0,United States of America,Canada,w
+0,England,Australia,w
+0,England,Namibia,w
+0,England,Scotland,w
+0,England,Oman,w
+0,Australia,Namibia,w
+0,Australia,Scotland,w
+0,Australia,Oman,w
+0,Scotland,Namibia,w
+0,Namibia,Oman,w
+0,Scotland,Oman,w
+0,New Zealand,West Indies,w
+0,New Zealand,Afghanistan,w
+0,New Zealand,Uganda,w
+0,New Zealand,Papua New Guinea,w
+0,West Indies,Afghanistan,w
+0,West Indies,Uganda,w
+0,West Indies,Papua New Guinea,w
+0,Afghanistan,Uganda,w
+0,Afghanistan,Papua New Guinea,w
+0,Papua New Guinea,Uganda,w
+0,South Africa,Sri Lanka,w
+0,South Africa,Bangladesh,w
+0,South Africa,Netherlands,w
+0,South Africa,Nepal,w
+0,Bangladesh,Sri Lanka,w
+0,Sri Lanka,Netherlands,w
+0,Sri Lanka,Nepal,w
+0,Bangladesh,Netherlands,w
+0,Bangladesh,Nepal,w
+0,Netherlands,Nepal,w
+0,India,Australia,w
+0,India,New Zealand,w
+0,India,Bangladesh,w
+0,Australia,New Zealand,w
+0,Australia,Bangladesh,w
+0,New Zealand,Bangladesh,w
+0,England,Pakistan,w
+0,West Indies,Pakistan,w
+0,Pakistan,South Africa,w
+0,England,West Indies,w
+0,England,South Africa,w
+0,West Indies,South Africa,w
+0,India,West Indies,w
+0,England,New Zealand,w
+0,India,England,w
+1,India,Pakistan,w
+1,India,Ireland,w
+1,India,Canada,w
+1,India,United States of America,w
+1,Pakistan,Ireland,w
+1,Pakistan,Canada,w
+1,Pakistan,United States of America,w
+1,Ireland,Canada,w
+1,Ireland,United States of America,w
+1,United States of America,Canada,w
+1,Australia,England,w
+1,England,Namibia,w
+1,England,Scotland,w
+1,England,Oman,w
+1,Australia,Namibia,w
+1,Australia,Scotland,w
+1,Australia,Oman,w
+1,Namibia,Scotland,w
+1,Namibia,Oman,w
+1,Scotland,Oman,w
+1,New Zealand,West Indies,w
+1,New Zealand,Afghanistan,w
+1,New Zealand,Uganda,w
+1,New Zealand,Papua New Guinea,w
+1,West Indies,Afghanistan,w
+1,West Indies,Uganda,w
+1,West Indies,Papua New Guinea,w
+1,Afghanistan,Uganda,w
+1,Afghanistan,Papua New Guinea,w
+1,Papua New Guinea,Uganda,w
+1,South Africa,Sri Lanka,w
+1,South Africa,Bangladesh,w
+1,South Africa,Netherlands,w
+1,South Africa,Nepal,w
+1,Bangladesh,Sri Lanka,w
+1,Sri Lanka,Netherlands,w
+1,Sri Lanka,Nepal,w
+1,Bangladesh,Netherlands,w
+1,Bangladesh,Nepal,w
+1,Netherlands,Nepal,w
+1,India,Australia,w
+1,India,New Zealand,w
+1,India,Bangladesh,w
+1,Australia,New Zealand,w
+1,Australia,Bangladesh,w
+1,New Zealand,Bangladesh,w
+1,England,Pakistan,w
+1,West Indies,Pakistan,w
+1,South Africa,Pakistan,w
+1,England,West Indies,w
+1,England,South Africa,w
+1,West Indies,South Africa,w
+1,India,West Indies,w
+1,Australia,England,w
+1,India,Australia,w
+2,India,Pakistan,w
+2,India,Ireland,w
+2,India,Canada,w
+2,India,United States of America,w
+2,Pakistan,Ireland,w
+2,Pakistan,Canada,w
+2,Pakistan,United States of America,w
+2,Ireland,Canada,w
+2,Ireland,United States of America,w
+2,United States of America,Canada,w
+2,Australia,England,w
+2,England,Namibia,w
+2,England,Scotland,w
+2,England,Oman,w
+2,Australia,Namibia,w
+2,Australia,Scotland,w
+2,Australia,Oman,w
+2,Namibia,Scotland,w
+2,Namibia,Oman,w
+2,Scotland,Oman,w
+2,New Zealand,West Indies,w
+2,New Zealand,Afghanistan,w
+2,New Zealand,Uganda,w
+2,New Zealand,Papua New Guinea,w
+2,West Indies,Afghanistan,w
+2,West Indies,Uganda,w
+2,West Indies,Papua New Guinea,w
+2,Afghanistan,Uganda,w
+2,Afghanistan,Papua New Guinea,w
+2,Papua New Guinea,Uganda,w
+2,South Africa,Sri Lanka,w
+2,South Africa,Bangladesh,w
+2,South Africa,Netherlands,w
+2,South Africa,Nepal,w
+2,Bangladesh,Sri Lanka,w
+2,Sri Lanka,Netherlands,w
+2,Sri Lanka,Nepal,w
+2,Bangladesh,Netherlands,w
+2,Bangladesh,Nepal,w
+2,Netherlands,Nepal,w
+2,India,Australia,w
+2,India,New Zealand,w
+2,India,Bangladesh,w
+2,Australia,New Zealand,w
+2,Australia,Bangladesh,w
+2,New Zealand,Bangladesh,w
+2,England,Pakistan,w
+2,West Indies,Pakistan,w
+2,South Africa,Pakistan,w
+2,England,West Indies,w
+2,England,South Africa,w
+2,West Indies,South Africa,w
+2,India,West Indies,w
+2,England,Australia,w
+2,India,England,w
+3,India,Pakistan,w
+3,India,Ireland,w
+3,India,Canada,w
+3,India,United States of America,w
+3,Pakistan,Ireland,w
+3,Pakistan,Canada,w
+3,Pakistan,United States of America,w
+3,Ireland,Canada,w
+3,Ireland,United States of America,w
+3,United States of America,Canada,w
+3,Australia,England,w
+3,England,Namibia,w
+3,England,Scotland,w
+3,England,Oman,w
+3,Australia,Namibia,w
+3,Australia,Scotland,w
+3,Australia,Oman,w
+3,Scotland,Namibia,w
+3,Namibia,Oman,w
+3,Scotland,Oman,w
+3,New Zealand,West Indies,w
+3,New Zealand,Afghanistan,w
+3,New Zealand,Uganda,w
+3,New Zealand,Papua New Guinea,w
+3,West Indies,Afghanistan,w
+3,West Indies,Uganda,w
+3,West Indies,Papua New Guinea,w
+3,Afghanistan,Uganda,w
+3,Afghanistan,Papua New Guinea,w
+3,Papua New Guinea,Uganda,w
+3,South Africa,Sri Lanka,w
+3,South Africa,Bangladesh,w
+3,South Africa,Netherlands,w
+3,South Africa,Nepal,w
+3,Sri Lanka,Bangladesh,w
+3,Sri Lanka,Netherlands,w
+3,Sri Lanka,Nepal,w
+3,Bangladesh,Netherlands,w
+3,Bangladesh,Nepal,w
+3,Netherlands,Nepal,w
+3,India,Australia,w
+3,India,New Zealand,w
+3,India,Sri Lanka,w
+3,Australia,New Zealand,w
+3,Australia,Sri Lanka,w
+3,New Zealand,Sri Lanka,w
+3,England,Pakistan,w
+3,West Indies,Pakistan,w
+3,South Africa,Pakistan,w
+3,England,West Indies,w
+3,England,South Africa,w
+3,West Indies,South Africa,w
+3,India,West Indies,w
+3,England,Australia,w
+3,England,India,w
+4,India,Pakistan,w
+4,India,Ireland,w
+4,India,Canada,w
+4,India,United States of America,w
+4,Pakistan,Ireland,w
+4,Pakistan,Canada,w
+4,Pakistan,United States of America,w
+4,Ireland,Canada,w
+4,Ireland,United States of America,w
+4,United States of America,Canada,w
+4,England,Australia,w
+4,England,Namibia,w
+4,England,Scotland,w
+4,England,Oman,w
+4,Australia,Namibia,w
+4,Australia,Scotland,w
+4,Australia,Oman,w
+4,Scotland,Namibia,w
+4,Namibia,Oman,w
+4,Scotland,Oman,w
+4,New Zealand,West Indies,w
+4,New Zealand,Afghanistan,w
+4,New Zealand,Uganda,w
+4,New Zealand,Papua New Guinea,w
+4,West Indies,Afghanistan,w
+4,West Indies,Uganda,w
+4,West Indies,Papua New Guinea,w
+4,Afghanistan,Uganda,w
+4,Afghanistan,Papua New Guinea,w
+4,Papua New Guinea,Uganda,w
+4,South Africa,Sri Lanka,w
+4,South Africa,Bangladesh,w
+4,South Africa,Netherlands,w
+4,South Africa,Nepal,w
+4,Sri Lanka,Bangladesh,w
+4,Sri Lanka,Netherlands,w
+4,Sri Lanka,Nepal,w
+4,Bangladesh,Netherlands,w
+4,Bangladesh,Nepal,w
+4,Netherlands,Nepal,w
+4,India,Australia,w
+4,India,New Zealand,w
+4,India,Sri Lanka,w
+4,Australia,New Zealand,w
+4,Australia,Sri Lanka,w
+4,New Zealand,Sri Lanka,w
+4,England,Pakistan,w
+4,West Indies,Pakistan,w
+4,Pakistan,South Africa,w
+4,England,West Indies,w
+4,England,South Africa,w
+4,West Indies,South Africa,w
+4,India,West Indies,w
+4,England,New Zealand,w
+4,India,England,w
+5,India,Pakistan,w
+5,India,Ireland,w
+5,India,Canada,w
+5,India,United States of America,w
+5,Pakistan,Ireland,w
+5,Pakistan,Canada,w
+5,Pakistan,United States of America,w
+5,Ireland,Canada,w
+5,Ireland,United States of America,w
+5,United States of America,Canada,w
+5,England,Australia,w
+5,England,Namibia,w
+5,England,Scotland,w
+5,England,Oman,w
+5,Australia,Namibia,w
+5,Australia,Scotland,w
+5,Australia,Oman,w
+5,Scotland,Namibia,w
+5,Namibia,Oman,w
+5,Scotland,Oman,w
+5,New Zealand,West Indies,w
+5,New Zealand,Afghanistan,w
+5,New Zealand,Uganda,w
+5,New Zealand,Papua New Guinea,w
+5,West Indies,Afghanistan,w
+5,West Indies,Uganda,w
+5,West Indies,Papua New Guinea,w
+5,Afghanistan,Uganda,w
+5,Afghanistan,Papua New Guinea,w
+5,Papua New Guinea,Uganda,w
+5,South Africa,Sri Lanka,w
+5,South Africa,Bangladesh,w
+5,South Africa,Netherlands,w
+5,South Africa,Nepal,w
+5,Bangladesh,Sri Lanka,w
+5,Sri Lanka,Netherlands,w
+5,Sri Lanka,Nepal,w
+5,Bangladesh,Netherlands,w
+5,Bangladesh,Nepal,w
+5,Netherlands,Nepal,w
+5,India,Australia,w
+5,India,New Zealand,w
+5,India,Bangladesh,w
+5,New Zealand,Australia,w
+5,Australia,Bangladesh,w
+5,New Zealand,Bangladesh,w
+5,England,Pakistan,w
+5,West Indies,Pakistan,w
+5,South Africa,Pakistan,w
+5,England,West Indies,w
+5,England,South Africa,w
+5,West Indies,South Africa,w
+5,India,West Indies,w
+5,England,New Zealand,w
+5,India,England,w
+6,India,Pakistan,w
+6,India,Ireland,w
+6,India,Canada,w
+6,India,United States of America,w
+6,Pakistan,Ireland,w
+6,Pakistan,Canada,w
+6,Pakistan,United States of America,w
+6,Ireland,Canada,w
+6,Ireland,United States of America,w
+6,United States of America,Canada,w
+6,Australia,England,w
+6,England,Namibia,w
+6,England,Scotland,w
+6,England,Oman,w
+6,Australia,Namibia,w
+6,Australia,Scotland,w
+6,Australia,Oman,w
+6,Scotland,Namibia,w
+6,Namibia,Oman,w
+6,Oman,Scotland,w
+6,New Zealand,West Indies,w
+6,New Zealand,Afghanistan,w
+6,New Zealand,Uganda,w
+6,New Zealand,Papua New Guinea,w
+6,West Indies,Afghanistan,w
+6,West Indies,Uganda,w
+6,West Indies,Papua New Guinea,w
+6,Afghanistan,Uganda,w
+6,Afghanistan,Papua New Guinea,w
+6,Papua New Guinea,Uganda,w
+6,South Africa,Sri Lanka,w
+6,South Africa,Bangladesh,w
+6,South Africa,Netherlands,w
+6,South Africa,Nepal,w
+6,Bangladesh,Sri Lanka,w
+6,Sri Lanka,Netherlands,w
+6,Sri Lanka,Nepal,w
+6,Bangladesh,Netherlands,w
+6,Bangladesh,Nepal,w
+6,Netherlands,Nepal,w
+6,India,Australia,w
+6,India,New Zealand,w
+6,India,Bangladesh,w
+6,Australia,New Zealand,w
+6,Australia,Bangladesh,w
+6,New Zealand,Bangladesh,w
+6,England,Pakistan,w
+6,West Indies,Pakistan,w
+6,Pakistan,South Africa,w
+6,England,West Indies,w
+6,England,South Africa,w
+6,West Indies,South Africa,w
+6,India,West Indies,w
+6,England,Australia,w
+6,India,England,w
+7,India,Pakistan,w
+7,India,Ireland,w
+7,India,Canada,w
+7,India,United States of America,w
+7,Pakistan,Ireland,w
+7,Pakistan,Canada,w
+7,Pakistan,United States of America,w
+7,Ireland,Canada,w
+7,Ireland,United States of America,w
+7,United States of America,Canada,w
+7,Australia,England,w
+7,England,Namibia,w
+7,England,Scotland,w
+7,England,Oman,w
+7,Australia,Namibia,w
+7,Australia,Scotland,w
+7,Australia,Oman,w
+7,Scotland,Namibia,w
+7,Namibia,Oman,w
+7,Scotland,Oman,w
+7,New Zealand,West Indies,w
+7,New Zealand,Afghanistan,w
+7,New Zealand,Uganda,w
+7,New Zealand,Papua New Guinea,w
+7,West Indies,Afghanistan,w
+7,West Indies,Uganda,w
+7,West Indies,Papua New Guinea,w
+7,Afghanistan,Uganda,w
+7,Afghanistan,Papua New Guinea,w
+7,Papua New Guinea,Uganda,w
+7,South Africa,Sri Lanka,w
+7,Bangladesh,South Africa,w
+7,South Africa,Netherlands,w
+7,South Africa,Nepal,w
+7,Bangladesh,Sri Lanka,w
+7,Sri Lanka,Netherlands,w
+7,Sri Lanka,Nepal,w
+7,Bangladesh,Netherlands,w
+7,Bangladesh,Nepal,w
+7,Netherlands,Nepal,w
+7,India,Australia,w
+7,India,New Zealand,w
+7,India,Bangladesh,w
+7,New Zealand,Australia,w
+7,Australia,Bangladesh,w
+7,New Zealand,Bangladesh,w
+7,England,Pakistan,w
+7,West Indies,Pakistan,w
+7,South Africa,Pakistan,w
+7,England,West Indies,w
+7,England,South Africa,w
+7,West Indies,South Africa,w
+7,India,West Indies,w
+7,England,New Zealand,w
+7,India,England,w
+8,India,Pakistan,w
+8,India,Ireland,w
+8,India,Canada,w
+8,India,United States of America,w
+8,Pakistan,Ireland,w
+8,Pakistan,Canada,w
+8,Pakistan,United States of America,w
+8,Ireland,Canada,w
+8,Ireland,United States of America,w
+8,United States of America,Canada,w
+8,England,Australia,w
+8,England,Namibia,w
+8,England,Scotland,w
+8,England,Oman,w
+8,Australia,Namibia,w
+8,Australia,Scotland,w
+8,Australia,Oman,w
+8,Namibia,Scotland,w
+8,Namibia,Oman,w
+8,Scotland,Oman,w
+8,West Indies,New Zealand,w
+8,New Zealand,Afghanistan,w
+8,New Zealand,Uganda,w
+8,New Zealand,Papua New Guinea,w
+8,West Indies,Afghanistan,w
+8,West Indies,Uganda,w
+8,West Indies,Papua New Guinea,w
+8,Afghanistan,Uganda,w
+8,Afghanistan,Papua New Guinea,w
+8,Papua New Guinea,Uganda,w
+8,South Africa,Sri Lanka,w
+8,South Africa,Bangladesh,w
+8,South Africa,Netherlands,w
+8,South Africa,Nepal,w
+8,Bangladesh,Sri Lanka,w
+8,Sri Lanka,Netherlands,w
+8,Sri Lanka,Nepal,w
+8,Bangladesh,Netherlands,w
+8,Bangladesh,Nepal,w
+8,Netherlands,Nepal,w
+8,India,Australia,w
+8,India,New Zealand,w
+8,India,Bangladesh,w
+8,New Zealand,Australia,w
+8,Australia,Bangladesh,w
+8,New Zealand,Bangladesh,w
+8,England,Pakistan,w
+8,West Indies,Pakistan,w
+8,South Africa,Pakistan,w
+8,West Indies,England,w
+8,England,South Africa,w
+8,West Indies,South Africa,w
+8,India,England,w
+8,New Zealand,West Indies,w
+8,India,New Zealand,w
+9,India,Pakistan,w
+9,India,Ireland,w
+9,India,Canada,w
+9,India,United States of America,w
+9,Pakistan,Ireland,w
+9,Pakistan,Canada,w
+9,Pakistan,United States of America,w
+9,Ireland,Canada,w
+9,Ireland,United States of America,w
+9,United States of America,Canada,w
+9,England,Australia,w
+9,England,Namibia,w
+9,England,Scotland,w
+9,England,Oman,w
+9,Australia,Namibia,w
+9,Australia,Scotland,w
+9,Australia,Oman,w
+9,Scotland,Namibia,w
+9,Namibia,Oman,w
+9,Scotland,Oman,w
+9,New Zealand,West Indies,w
+9,New Zealand,Afghanistan,w
+9,New Zealand,Uganda,w
+9,New Zealand,Papua New Guinea,w
+9,West Indies,Afghanistan,w
+9,West Indies,Uganda,w
+9,West Indies,Papua New Guinea,w
+9,Afghanistan,Uganda,w
+9,Afghanistan,Papua New Guinea,w
+9,Papua New Guinea,Uganda,w
+9,South Africa,Sri Lanka,w
+9,Bangladesh,South Africa,w
+9,South Africa,Netherlands,w
+9,South Africa,Nepal,w
+9,Bangladesh,Sri Lanka,w
+9,Sri Lanka,Netherlands,w
+9,Sri Lanka,Nepal,w
+9,Bangladesh,Netherlands,w
+9,Bangladesh,Nepal,w
+9,Netherlands,Nepal,w
+9,India,Australia,w
+9,India,New Zealand,w
+9,India,Bangladesh,w
+9,Australia,New Zealand,w
+9,Australia,Bangladesh,w
+9,New Zealand,Bangladesh,w
+9,England,Pakistan,w
+9,West Indies,Pakistan,w
+9,South Africa,Pakistan,w
+9,England,West Indies,w
+9,England,South Africa,w
+9,West Indies,South Africa,w
+9,India,West Indies,w
+9,New Zealand,England,w
+9,India,New Zealand,w
