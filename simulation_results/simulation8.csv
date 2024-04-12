@@ -1,21 +1,21 @@
 ,Country,Group,Points,Result,total_runs_scored,total_runs_conceded,num_matches_played,NRR
-0,India,S8_G1,14,Champion,1259.4402,1004.0181,9,1.7738
-1,Pakistan,S8_G2,6,Super 8 stage,951.3528,816.5509,7,1.2036
-2,Ireland,A,4,Group stage,536.499,481.6669,4,0.8568
-3,Canada,A,0,Group stage,400.9264,711.3236,4,-4.85
-4,United States of America,A,2,Group stage,451.0668,565.9755,4,-1.7954
-5,England,S8_G2,12,Semifinalist,1128.662,973.1875,8,1.2146
-6,Australia,S8_G1,8,Super 8 stage,978.9463,819.0271,7,1.4278
-7,Namibia,B,4,Group stage,459.8957,528.9254,4,-1.0786
-8,Scotland,B,2,Group stage,477.9723,550.6987,4,-1.1364
-9,Oman,B,0,Group stage,440.6646,596.7968,4,-2.4396
-10,New Zealand,S8_G1,10,Finalist,1310.1793,1039.8299,9,1.8774
-11,West Indies,S8_G2,14,Semifinalist,1243.7522,976.5911,8,2.0872
-12,Afghanistan,C,4,Group stage,566.3878,573.2209,4,-0.1068
-13,Uganda,C,0,Group stage,456.9176,781.1131,4,-5.0656
-14,Papua New Guinea,C,2,Group stage,483.9809,661.1293,4,-2.7679
-15,South Africa,S8_G2,10,Super 8 stage,960.153,859.4602,7,0.899
-16,Sri Lanka,D,4,Group stage,528.819,490.9854,4,0.5911
-17,Bangladesh,S8_G1,6,Super 8 stage,863.7311,833.4033,7,0.2708
-18,Netherlands,D,2,Group stage,495.1671,539.9788,4,-0.7002
-19,Nepal,D,0,Group stage,432.8507,623.4821,4,-2.9786
+0,India,S8_G1,12,Semifinalist,1115.1899,897.2344,8,1.7028
+1,Pakistan,S8_G2,8,Super 8 stage,960.8089,826.0137,7,1.2035
+2,Ireland,A,4,Group stage,530.6009,492.2694,4,0.5989
+3,Canada,A,0,Group stage,388.7318,677.2198,4,-4.5076
+4,United States of America,A,2,Group stage,453.8271,560.191,4,-1.6619
+5,England,S8_G2,12,Champion,1272.0944,1085.0288,9,1.2991
+6,Australia,S8_G1,10,Super 8 stage,978.9787,811.1191,7,1.4987
+7,Namibia,B,2,Group stage,460.077,546.296,4,-1.3472
+8,Scotland,B,4,Group stage,477.4831,540.4925,4,-0.9845
+9,Oman,B,0,Group stage,441.99,593.8168,4,-2.3723
+10,New Zealand,S8_G1,14,Finalist,1319.6138,1053.0643,9,1.851
+11,West Indies,S8_G2,10,Semifinalist,1230.6908,970.1512,8,2.0355
+12,Afghanistan,C,4,Group stage,587.4105,616.7177,4,-0.4579
+13,Uganda,C,0,Group stage,441.9753,751.7663,4,-4.8405
+14,Papua New Guinea,C,2,Group stage,500.8237,661.826,4,-2.5157
+15,South Africa,S8_G2,8,Super 8 stage,967.6777,860.6347,7,0.9557
+16,Sri Lanka,D,4,Group stage,534.5034,473.7148,4,0.9498
+17,Bangladesh,S8_G1,6,Super 8 stage,849.6361,843.1819,7,0.0576
+18,Netherlands,D,2,Group stage,482.2393,540.9754,4,-0.9178
+19,Nepal,D,0,Group stage,431.3007,623.9393,4,-3.01
