@@ -1,3 +1,6 @@
-/env
 /.vscode
+/env
 /loc
+/simulation_results
+/t20s_male_full
+/t20s_male_info
